@@ -1,3 +1,8 @@
+# Fairly limited script
+# Given a list of episode numbers in a text file, and a folder containing video files
+# This script can be used to rename the filenames based off the the supplied text file
+# August 15, 2023
+
 import os
 
 def rename_files(current_names_file, new_names_file, folder_path):
