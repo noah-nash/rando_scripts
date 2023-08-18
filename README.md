@@ -1,5 +1,5 @@
 # rando_scripts
-Personal scripts that I made to automate random stuff
+Collection of personal scripts that I made to automate random stuff
 
 # Bash
 Currently contains bash scripts to help remove advertisements from my OTA recordings
