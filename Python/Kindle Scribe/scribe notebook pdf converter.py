@@ -18,7 +18,7 @@ for folder_name in os.listdir(notebook_directory):
     folder_path = os.path.join(notebook_directory, folder_name)
     
     # Check if the item is a directory. Don't run if not a notebook directory
-	# Thumbnail, and personal document files are excluded.
+    # Thumbnail, and personal document files are excluded.
     if os.path.isdir(folder_path) and folder_name != ".backup" and folder_name != "thumbnails" and "!!PDOC!!" not in folder_name and "!!EBOK!!" not in folder_name:
         # Construct the command(s)
         command = [calibre_debug_executable, "-r", "KFX Input", "--", folder_path, f"{folder_name}.epub"]
