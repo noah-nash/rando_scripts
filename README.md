@@ -6,7 +6,7 @@ Currently contains bash scripts to help remove advertisements from my OTA record
 
 # Python
 ### Jeopardy folder 
-Were made to help me post process my OTA recordings made through my HDHomerun.
+Made to help me post process my OTA recordings made through my HDHomerun.
 
 ### Kindle Scribe Folder
 Automates converting from the proprietary Amazon format into PDF files. Useful for storing with my handwritten notes.
