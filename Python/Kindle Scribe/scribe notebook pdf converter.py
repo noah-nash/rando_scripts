@@ -10,7 +10,7 @@ import subprocess
 calibre_debug_executable = r"C:\Program Files\Calibre2\calibre-debug.exe"
 calibre_convert_executable = r"C:\Program Files\Calibre2\ebook-convert.exe"
 
-# Path to the directories. Where notebook_directory is where they are store on Kindle.
+# Path to the directories. Where notebook_directory is where they are stored on Kindle.
 notebook_directory = r"D:\<Scribe root folder>\.notebooks"
 output_directory = r"C:\<Scribe root folder>\Kindle_Scribe_PDF_Files"
 
