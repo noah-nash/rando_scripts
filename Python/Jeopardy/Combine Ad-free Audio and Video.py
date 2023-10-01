@@ -1,6 +1,6 @@
 # My first python script. Ain't it a beaut.
 # Made for combining OTA Jeopardy dvr recordings where audio sync drifts due to unclean ad cuts.
-# August 8, 2023
+# Written sometime 2021
 
 import os
 import subprocess
